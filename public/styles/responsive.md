@@ -1,0 +1,3 @@
+-- Notebook (1024px - 767px)
+-- Tablet (767px - 567px)
+-- Smartphones (567px - 350px)
